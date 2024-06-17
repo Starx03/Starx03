@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starx03&label=Profile%20views&color=0e75b6&style=flat" alt="starx03" /> </p>
 
-- 🔭 I’m currently working on [Dating app design]([https://www.figma.com/proto/pHkzWUli6z3N9koomB7s9R/date-2?node-id=0-1&t=oq7FI93anKNIJyza-1])
+- 🔭 I’m currently working on [Dating app design](https://www.figma.com/proto/pHkzWUli6z3N9koomB7s9R/date-2?node-id=0-1&t=oq7FI93anKNIJyza-1)
 
 - 💬 Ask me about **figma**
 
