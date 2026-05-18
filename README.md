@@ -1,5 +1,5 @@
 [![MaterHead](https://i.pinimg.com/originals/87/0a/2f/870a2f0a426751eac1fc9cefcd97be78.gif)]
-<h1 align="center">Hi 👋, I'm Aryan Basu</h1>
+<h1 align="center">Hi 👋, I'm Aryan Basu </h1>
 <h3 align="center">A diligent UI/UX designer from India</h3>
 <img align="right" alt="Designing" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*5oiuLeF3ZzHCLBCc.gif">
 
