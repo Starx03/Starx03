@@ -42,12 +42,12 @@
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="Aryan's Stats" width="48%" />
-<img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
+### 🎯 Research Focus & Stack Banners
 
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=starx03&show_icons=true&theme=tokyonight" alt="Aryan's Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=starx03&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
