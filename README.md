@@ -42,6 +42,11 @@
 
 <div align="center">
 
+<img src="./profile/stats.svg" alt="Aryan's Stats" width="48%" />
+<img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
+
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=starx03&show_icons=true&theme=tokyonight" alt="Aryan's Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=starx03&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 
