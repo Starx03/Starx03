@@ -1,26 +1,48 @@
-[![MaterHead](https://i.pinimg.com/originals/87/0a/2f/870a2f0a426751eac1fc9cefcd97be78.gif)]
-<h1 align="center">Hi 👋, I'm Aryan Basu </h1>
-<h3 align="center">A diligent UI/UX designer from India</h3>
-<img align="right" alt="Designing" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*5oiuLeF3ZzHCLBCc.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=starx03&label=Profile%20views&color=0e75b6&style=flat" alt="starx03" /> </p>
+# Hi 👋, I'm Aryan Basu
+### **AI Researcher & Machine Learning Enthusiast**
 
-- 🔭 I’m currently working on [Dating app design](https://www.figma.com/proto/pHkzWUli6z3N9koomB7s9R/date-2?node-id=0-1&t=oq7FI93anKNIJyza-1)
+[![Profile Views](https://komarev.com/ghpvc/?username=starx03&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/starx03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Basu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryan-basu-b47809279/)
+[![Email](https://img.shields.io/badge/Email-ariyanbasu007%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ariyanbasu007@gmail.com)
 
-- 💬 Ask me about **figma**
+---
 
-- 📫 How to reach me **ariyanbasu007@gmail.com**
+</div>
 
-- ⚡ Fun fact **I can hold up a good conversation (i guess)**
+### 🔬 About Me
+- 🔭 **Current Focus:** Researching Deep Learning architectures, Large Language Models (LLMs), and Computer Vision.
+- 📜 **Goal:** Publishing research papers and building open-source AI solutions.
+- 💬 **Ask me about:** Python, PyTorch, Model Optimization, and Data Structures & Algorithms.
+- 📫 **Reach out:** [ariyanbasu007@gmail.com](mailto:ariyanbasu007@gmail.com)
+- ⚡ **Fun Fact:** I leverage my background in UI/UX to build intuitive interfaces for AI tools and models!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-basu-b47809279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-basu-b47809279/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+### 🛠️ Research & Technical Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starx03&show_icons=true&locale=en&layout=compact" alt="starx03" /></p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `C++`, `C` |
+| **ML/DL Frameworks** | `PyTorch`, `TensorFlow`, `Scikit-Learn` |
+| **Libraries & Tools** | `NumPy`, `Pandas`, `Matplotlib`, `OpenCV` |
+| **Development & UI** | `Git`, `GitHub`, `Jupyter`, `Figma` |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starx03&show_icons=true&locale=en" alt="starx03" /></p>
+---
+
+### 📌 Research Interests
+- [ ] **Natural Language Processing & LLMs** (Fine-tuning, RAG, Prompt Engineering)
+- [ ] **Computer Vision** (Object Detection, Generative Models, Visual Transformers)
+- [ ] **Efficient ML** (Model Quantization, Pruning, Edge AI Deployment)
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=starx03&show_icons=true&theme=tokyonight&count_private=true" alt="Aryan's Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=starx03&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+
+</div>
