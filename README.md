@@ -1,53 +1,98 @@
 <div align="center">
 
 # Hi 👋, I'm Aryan Basu
-### **AI Researcher & Machine Learning Enthusiast**
+
+### 🧠 AI/ML Engineer • Aspiring AI Researcher
+
+Building intelligent systems, experimenting with machine learning, and exploring the intersection of **LLMs, Computer Vision, and Efficient AI**.
+
+<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=starx03&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/starx03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Basu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryan-basu-b47809279/)
-[![Email](https://img.shields.io/badge/Email-ariyanbasu007%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ariyanbasu007@gmail.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Basu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-basu-b47809279/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ariyanbasu007@gmail.com)
 
 </div>
 
-### 🔬 About Me
-- 🔭 **Current Focus:** Researching Deep Learning architectures, Large Language Models (LLMs), and Computer Vision.
-- 📜 **Goal:** Publishing research papers and building open-source AI solutions.
-- 💬 **Ask me about:** Python, PyTorch, Model Optimization, and Data Structures & Algorithms.
-- 📫 **Reach out:** [ariyanbasu007@gmail.com](mailto:ariyanbasu007@gmail.com)
-- ⚡ **Fun Fact:** I leverage my background in UI/UX to build intuitive interfaces for AI tools and models!
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning**, interested in understanding how modern AI systems work — and turning that understanding into practical, measurable projects.
+
+- 🔭 **Currently exploring:** Deep Learning, LLMs, Computer Vision & Efficient AI
+- 🧪 **Research mindset:** Reproducing papers, running experiments, benchmarking models & analyzing results
+- 🧠 **Interested in:** RAG, LLM fine-tuning, Vision Transformers, model optimization & AI evaluation
+- 🚀 **Goal:** Contribute to AI research, publish meaningful work & build open-source AI systems
+- 🎨 **Design advantage:** Background in UI/UX helps me build AI tools that are not only functional, but intuitive to use
+- 🌏 **International experience:** Academic exchange experience in China with exposure to IoT & application-oriented technology
 
 ---
 
-### 🛠️ Research & Technical Stack
+## 🔬 Research Interests
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `Python`, `C++`, `C` |
-| **ML/DL Frameworks** | `PyTorch`, `TensorFlow`, `Scikit-Learn` |
-| **Libraries & Tools** | `NumPy`, `Pandas`, `Matplotlib`, `OpenCV` |
-| **Development & UI** | `Git`, `GitHub`, `Jupyter`, `Figma` |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 LLMs & NLP
+
+- Retrieval-Augmented Generation
+- LLM Fine-tuning
+- LoRA / PEFT
+- Prompt Engineering
+- LLM Evaluation
+- AI Agents
+
+</td>
+
+<td width="33%" valign="top">
+
+### 👁️ Computer Vision
+
+- Image Classification
+- Object Detection
+- Vision Transformers
+- Generative Models
+- Representation Learning
+- Visual AI
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ Efficient AI
+
+- Model Quantization
+- Pruning
+- Knowledge Distillation
+- Efficient Inference
+- Edge AI
+- Model Optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📌 Research Interests
-- [ ] **Natural Language Processing & LLMs** (Fine-tuning, RAG, Prompt Engineering)
-- [ ] **Computer Vision** (Object Detection, Generative Models, Visual Transformers)
-- [ ] **Efficient ML** (Model Quantization, Pruning, Edge AI Deployment)
+## 🧪 Research & Experimentation
 
----
+I enjoy going beyond simply implementing a model — I want to understand **why it works, how it behaves, and what happens when its components are changed.**
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-### 🎯 Research Focus & Stack Banners
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</div>
+```text
+Research Question
+       ↓
+Hypothesis
+       ↓
+Implementation
+       ↓
+Experiment
+       ↓
+Benchmark
+       ↓
+Analysis
+       ↓
+Conclusion
+       ↓
+Next Experiment
